@@ -1,0 +1,15 @@
+
+body{
+    background-image: url(images/bg-desktop-dark.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: 100%;
+    background-color: #2e2e2e;
+}
+
+
+.max-w{
+    max-width: 600px;
+}
+
+
